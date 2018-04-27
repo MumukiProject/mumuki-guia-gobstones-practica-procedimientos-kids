@@ -1,0 +1,7 @@
+Ya vimos muchas cosas. ¡Es hora de practicar! :muscle:
+
+Los próximos ejercicios serán un poco más complejos, pero con todo lo que aprendiste prodemos resolverlo sin problemas.
+
+* Intentá dividir el problema en otros **problemas más chicos**. 
+* Pensá qué partes del problema **se repiten**, y definí procedimientos que puedas utilizar más de una vez.
+* Es importante saber dónde estamos parados siempre, para ver cómo continuar con el próximo paso.
