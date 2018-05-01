@@ -1,0 +1,1 @@
+Te dejamos el procedimiento `Sembrar Cantero De Tomates` de la lección anterior. Hacé otro para `Regar`, que ponga 2 bolitas azules. 
