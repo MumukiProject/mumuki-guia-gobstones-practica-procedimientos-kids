@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: HuertaDeEnsalada
+  inspection: Uses:SembrarCantero
+- binding: HuertaDeEnsalada
+  inspection: Uses:SembrarHilera
+- binding: HuertaDeEnsalada
+  inspection: Uses:RegarFila

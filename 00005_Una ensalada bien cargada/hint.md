@@ -1,0 +1,1 @@
+Como el cantero de tomates, la hilera de lechuga y el riego espaciado se hacen siempre hacia el Este, en algún momento tendrás que volver al Oeste. :wink:
