@@ -1,0 +1,5 @@
+En este ejercicio verás cómo nuestros trabajos chiquitos, de hormiguita, nos servirán para hacer algo mucho más complejo. Solo es cuestión de paciencia y de dividir los grandes problemas en pequeñas tareas. :wink:
+
+Ahora tenemos que regar toda la fila de choclos, pero respetando lo que te dijimos antes: cada 2 casilleros para no arruinarlo. :stuck_out_tongue_closed_eyes: 
+
+> Definí el procedimiento `Regar Fila` que, comenzando a regar donde estamos parados, riegue la fila de choclos cada 2 casilleros. 
