@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: program
+  inspection: Uses:RegarFila
+- binding: program
+  inspection: Uses:VolverAlOeste
+- binding: program
+  inspection: Uses:RegarEspaciado
