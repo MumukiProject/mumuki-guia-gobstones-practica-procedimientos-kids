@@ -1,8 +1,8 @@
 ---
 expectations:
-- binding: program
+- binding: "*"
   inspection: Uses:RegarFila
-- binding: program
-  inspection: Uses:VolverAlOeste
-- binding: program
+- binding: "*"
+  inspection: Uses:IrAlBorde
+- binding: "*"
   inspection: Uses:RegarEspaciado
