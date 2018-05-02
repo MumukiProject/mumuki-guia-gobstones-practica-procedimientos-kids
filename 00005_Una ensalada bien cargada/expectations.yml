@@ -1,8 +1,8 @@
 ---
 expectations:
-- binding: HuertaDeEnsalada
+- binding: "*"
   inspection: Uses:SembrarCanteroDeTomates
-- binding: HuertaDeEnsalada
+- binding: "*"
   inspection: Uses:SembrarHileraDeLechugas
-- binding: HuertaDeEnsalada
+- binding: "*"
   inspection: Uses:RegarFila
