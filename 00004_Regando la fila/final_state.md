@@ -5,5 +5,5 @@ cell 1 0 Negro 3
 cell 2 0 Negro 3 Azul 2
 cell 3 0 Negro 3
 cell 4 0 Negro 3 Azul 2
-head 0 0
+head 4 0
  </gs-board>
