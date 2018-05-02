@@ -1,0 +1,1 @@
+Recordá que el estanque siempre estará en el borde Noroeste, y que el terreno puede variar, así que no vale invocar a `Mover` :pensive:. Probá usar `IrAlBorde` con la `dirección` a donde quieras ir. :wink: 
