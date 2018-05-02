@@ -10,4 +10,4 @@ En la lección anterior programamos exitosamente a Mukinita para manejar el trac
 
 Para regar cada parcela tendremos que poner 2 bolitas azules. ¡Démosle vida a esas plantas entonces! Empecemos por los canteros de tomates. :tomato:
 
-> Definí el procedimiento `Sembrar Y Regar Cantero` que arme un cantero de tomates como el que ves, y además los riege. No te olvides de separar en pequeños procedimientos cada una de estas tareas.
+> Definí e invocá al procedimiento `Sembrar Y Regar Cantero` que arme un cantero de tomates como el que ves, y además los riege. No te olvides de separar en pequeños procedimientos cada una de estas tareas.
