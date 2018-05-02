@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: RegarFilas
+- binding: RegarFila
   inspection: Uses:RegarEspaciado
