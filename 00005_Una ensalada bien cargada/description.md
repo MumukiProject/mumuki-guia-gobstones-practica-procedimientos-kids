@@ -9,4 +9,4 @@
 
 ¡Así que ya podemos combinarlos para hacer cosas mucho más grandes! :smile:
 
-> Escribí un programa que siembre un cantero de tomates y al `Este` una hilera de lechugas, y las riegue cada 2 parcelas. ¡Ah! Y si te animás, probá un nuevo comando que te dejamos: `IrAlBorde`
+> Escribí un programa que siembre un cantero de tomates y al `Este` una hilera de lechugas, y las riegue cada 2 parcelas. ¡Ah! Y si te animás, probá un nuevo comando que te dejamos entre los _comandos_: `IrAlBorde`
