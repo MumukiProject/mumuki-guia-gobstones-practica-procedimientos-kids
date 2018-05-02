@@ -32,7 +32,14 @@
     {
       "when": { "blue": 2, "black": 0, "red": 0, "green": 0 },
       "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/tierra_humeda.png"
+    },
+    {
+      "when": { "blue": 4, "black": 0, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/tierra_estanque.png"
+    },
+    {
+      "when": { "blue": 8, "black": 0, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/tierra_estanque.png"
     }
-
   ]
 }
