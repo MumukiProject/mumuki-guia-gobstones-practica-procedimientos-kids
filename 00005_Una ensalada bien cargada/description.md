@@ -9,4 +9,4 @@
 
 ¡Así que ya podemos combinarlos para hacer cosas mucho más grandes! :smile:
 
-> Definí el procedimiento `Sembrar Huerta De Ensalada` que siembre un cantero de tomates y al Este una hilera de lechugas. ¡No te olvides de regarlas cada 2 parcelas!
+> Definí el procedimiento `Sembrar Huerta De Ensalada` que siembre un cantero de tomates y al `Este` una hilera de lechugas, y las riegue cada 2 parcelas.
