@@ -1,0 +1,13 @@
+<category name="Comandos">
+  <block type="Poner"></block>
+  <block type="Sacar"></block>
+  <block type="Mover"></block>
+</category>
+
+<category name="Colores y Direcciones">
+  <block type="ColorSelector"></block>
+  <block type="DireccionSelector"></block>
+</category>
+
+<category name="Mis procedimientos" custom="PROCEDURE_CALLS">
+</category>

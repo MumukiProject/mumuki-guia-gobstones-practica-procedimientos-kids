@@ -1,3 +1,10 @@
-El jardín de Willie quedó tan lindo con todo lo que hicimos, que quiere construir uno especialmente para que la gente visite. Ya aprendimos a movernos hasta cualquiera de los bordes del terreno, así que con eso será más fácil lograrlo. ¡Probemos! :smile: 
+<gs-attire
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/config.json">
+</gs-attire>
+<gs-toolbox
+  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
+El jardín de Willie quedó tan lindo con todo lo que hicimos, que quiere construir uno especialmente para que la gente visite. Ya aprendimos a movernos hasta cualquiera de los bordes del terreno, así que con eso será más fácil lograrlo. ¡Probemos! :smile:
 
 > Construí un programa que plante un cantero de tomates al Nordeste (esquina Norte-Este), una fila de choclos al Sudoeste (desde la esquina Sur y Oeste), y una hilera de lechuga al Norte de los choclos comenzando desde el borde Oeste. ¡No te olvides de regarlas con agua del estanque!

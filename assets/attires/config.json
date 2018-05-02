@@ -1,0 +1,38 @@
+{
+  "enabled": true,
+  "rules": [
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/tierra_seca.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 4, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/planta_tomate.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 2 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/planta_lechuga.png"
+    },
+    {
+      "when": { "blue": 0, "black": 3, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/planta_choclo.png"
+    },
+    {
+      "when": { "blue": 2, "black": 0, "red": 4, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/tomate_humedo.png"
+    },
+    {
+      "when": { "blue": 2, "black": 0, "red": 0, "green": 2 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/lechuga_humeda.png"
+    },
+    {
+      "when": { "blue": 2, "black": 3, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/choclo_humedo.png"
+    },
+    {
+      "when": { "blue": 2, "black": 0, "red": 0, "green": 0 },
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/tierra_humeda.png"
+    }
+
+  ]
+}
