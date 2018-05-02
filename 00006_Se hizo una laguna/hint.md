@@ -1,1 +1,1 @@
-Te puede ayudar también `Regar Espaciado` que ya definiste antes.
+Definí procedimientos que te simplifiquen los movimientos que usarás varias veces.
