@@ -4,3 +4,5 @@ expectations:
   inspection: Declares:SembrarYRegarCanteroDeTomates
 - binding: "*"
   inspection: Uses:SembrarYRegarCanteroDeTomates
+- binding: "*"
+  inspection: Uses:Regar
