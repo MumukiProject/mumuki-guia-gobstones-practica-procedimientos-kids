@@ -1,0 +1,1 @@
+¡Felicitaciones! A veces volver a los bordes puede ser un poco engorroso, y por eso es que Mukinita entiende `IrAlBorde`, que es un comando que se mueve en la dirección que le pasas hasta alcanzar un borde del tablero. Como es tan útil, de ahora en más vamos a dejarlo para que lo uses cuando lo necesites :sunglasses: 
