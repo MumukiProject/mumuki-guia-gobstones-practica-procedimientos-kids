@@ -1,0 +1,1 @@
+Te dejamos todos los procedimientos que definiste hasta acá. Ya no necesitás pensar en poner o sacar bolitas, sino cómo combinarlos según lo que hacen. Será de gran ayuda la primitiva `IrAlBorde`. :smiley:
