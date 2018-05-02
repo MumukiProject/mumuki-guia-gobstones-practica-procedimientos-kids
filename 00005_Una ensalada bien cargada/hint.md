@@ -1,1 +1,1 @@
-Como el cantero de tomates, la hilera de lechuga y el riego espaciado se hacen siempre hacia el Este, en algún momento tendrás que volver al Oeste. :wink:
+Como el cantero de tomates, la hilera de lechuga y el riego espaciado se hacen siempre hacia el Este, en algún momento tendrás que volver al Oeste. Podés hacerlo poniendo tantos `Mover` hacia el `Oeste` como sean necesarios, pero te podrías ahorrar mucho trabajo si usás el nuevo comando `IrAlBorde`. 
