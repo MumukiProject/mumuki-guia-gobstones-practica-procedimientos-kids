@@ -1,1 +1,1 @@
-Fijate lo que hace cada procedimiento. 
+¡No te olvides de nuestro amigo `IrAlBorde`! Te va a ahorrar bastante trabajo :smile:
