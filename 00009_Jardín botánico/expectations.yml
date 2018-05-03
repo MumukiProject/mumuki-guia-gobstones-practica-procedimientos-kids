@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: "*"
-  inspection: Declares:^Regar
-- binding: "*"
-  inspection: Uses:^Regar
+- binding: Intransitive:program
+  inspection: Not:Uses:Regar
