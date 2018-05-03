@@ -9,4 +9,4 @@ Por una cuestión estratégica, Willie colocó los estanques en las esquinas Nor
 
 En su lugar, tendremos otra primitiva `Ir Al Borde` a la que le podremos indicar la dirección en la que queremos movernos todo lo que podamos hasta llegar al borde. Ya la mencionamos antes, ¡pero este es el momento de conocerla mejor!
 
-> Definí el procedimiento `Recolectar Del Estanque` que mueva el tractor hasta el estanque y recolecte agua (sacando dos bolitas azules).
+> Definí e invocá el procedimiento `Recolectar Del Estanque` que mueva el tractor hasta el estanque y recolecte agua (sacando dos bolitas azules).
