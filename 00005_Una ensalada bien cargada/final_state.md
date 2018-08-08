@@ -1,4 +1,4 @@
-<gs-board> GBB/1.0
+<gs-board without-header> GBB/1.0
 size 6 2
 cell 0 0 Rojo 4 Azul 2
 cell 1 0 Rojo 4 
