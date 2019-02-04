@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: RecolectarDelEstanque
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RecolectarDelEstanque
   inspection: Uses:IrAlBorde
