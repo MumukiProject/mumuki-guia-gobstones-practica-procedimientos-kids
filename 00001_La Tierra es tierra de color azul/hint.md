@@ -1,1 +1,1 @@
-Te dejamos el procedimiento `Sembrar Cantero De Tomates` de la lección anterior. Hacé otro para `Regar`, que ponga 2 bolitas azules. Y `Sembrar Y Regar Cantero De Tomates`  debería invocar a estos dos. 
+Te dejamos el procedimiento `Sembrar Cantero De Tomates` de la lección anterior. Hacé otro para `Regar`, que ponga 2 bolitas azules. Y `Sembrar Y Regar Cantero De Tomates` debería invocar a estos dos. 
