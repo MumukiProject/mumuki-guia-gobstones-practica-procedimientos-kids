@@ -1,9 +1,7 @@
 <gs-attire
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/attires/config.json">
 </gs-attire>
-<gs-toolbox
-  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/toolbox.xml">
-</gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/toolbox_1553290173357.xml"></gs-toolbox>
 
 Los tomates crecieron muy bien y ya son furor en Springfield. ¡Eran tantos que Willie los empezó a vender! Es el turno de regar los choclos  :corn:, pero debemos tener cuidado porque con mucha agua se pueden pudrir. Así que primero aprendamos a regar cada 2 casilleros. :wink:
 
