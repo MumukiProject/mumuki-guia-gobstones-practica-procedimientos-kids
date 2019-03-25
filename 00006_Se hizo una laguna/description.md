@@ -5,4 +5,4 @@
 
 Con la plata que ganó, Willie hizo un pequeño estanque en su jardín, de donde sacaremos agua para regar las plantas. :stuck_out_tongue_winking_eye:
 
-> Armá un programa que saque toda el agua del estanque (son 8 bolitas azules) y las use para regar los 4 canteros como ves en la imagen. 
+> Armá un `programa` que `saque` toda el agua del estanque (son 8 bolitas azules) y las use para regar los 4 canteros como ves en la imagen. 
