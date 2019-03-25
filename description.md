@@ -4,4 +4,4 @@ Ya vimos muchas cosas y los próximos ejercicios serán un poco más complejos, 
 * Pensá qué partes del problema **se repiten**, y definí procedimientos que puedas utilizar más de una vez.
 * Es importante saber dónde estamos parados siempre, para ver cómo continuar con el próximo paso.
 
-¡Hora de practicar! :muscle:
+¡Hora de practicar! :muscle: :computer:
