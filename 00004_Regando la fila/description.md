@@ -7,4 +7,4 @@ En este ejercicio verás cómo nuestros trabajos chiquitos, de hormiguita :ant:,
 
 Ahora tenemos que regar toda la fila de choclos :corn:, pero respetando lo que te dijimos antes: cada 2 casilleros para no arruinarlo. :stuck_out_tongue_closed_eyes:
 
-> Definí e invocá el procedimiento `Regar fila` que, comenzando a regar donde estamos parados, riegue la fila de choclos cada 2 casilleros.
+> Definí e invocá el procedimiento `Regar Fila` que, comenzando a regar donde estamos parados, riegue la fila de choclos cada 2 casilleros.
