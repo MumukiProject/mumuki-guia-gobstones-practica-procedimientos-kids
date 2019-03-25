@@ -5,4 +5,4 @@
 
 Los tomates crecieron muy bien y ya son furor en Springfield. ¡Eran tantos que Willie los empezó a vender :moneybag:! Es el turno de regar los choclos  :corn:, pero debemos tener cuidado porque con mucha agua se pueden pudrir :pensive:. Así que primero aprendamos a regar cada 2 casilleros. :relaxed:
 
-> Definí e invocá el procedimiento `Regar Espaciado` que mueva al tractor 2 casilleros al  `Este` y luego `riegue` para que quede como en la imagen.
+> Definí e invocá el procedimiento `Regar espaciado` que mueva al tractor 2 casilleros al  `Este` y luego `riegue` para que quede como en la imagen.
