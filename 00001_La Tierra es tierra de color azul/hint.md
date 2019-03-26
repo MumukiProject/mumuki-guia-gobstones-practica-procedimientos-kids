@@ -1,1 +1,1 @@
-Para definir `Regar`, tocá en _Procedimientos_ y luego en _Nuevo procedimiento_. Podés cambiarle el nombre tocando sobre `Hacer algo`. `Sembrar Cantero De Tomates` ya te lo dejamos entre los _Procedimientos primitivos_.`Sembrar Y Regar Cantero De Tomates` debería invocar a ambos. 
+Para definir `Regar`, tocá en _Procedimientos_ y luego en _Nuevo procedimiento_. Podés cambiarle el nombre tocando sobre `Hacer algo`. 

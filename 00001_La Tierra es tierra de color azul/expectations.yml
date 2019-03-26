@@ -2,13 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:SembrarYRegarCanteroDeTomates
+  inspection: Declares:RegarCanteroDeTomates
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Uses:SembrarYRegarCanteroDeTomates
+  inspection: Uses:RegarCanteroDeTomates
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: SembrarYRegarCanteroDeTomates
+  binding: RegarCanteroDeTomates
   inspection: Uses:Regar
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: SembrarCanteroDeTomates
-  inspection: Not:Uses:Regar
