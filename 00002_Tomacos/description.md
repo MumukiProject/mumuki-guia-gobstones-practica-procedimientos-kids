@@ -3,6 +3,6 @@
 </gs-attire>
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-procedimientos-kids/master/assets/toolbox_1553290173357.xml"></gs-toolbox>
 
-El cantero del ejercicio anterior quedó increíble, y los tomates crecieron un montón :tada: . A Willie le gustó tanto, que quiere llenar todo el terreno con más canteros. Con el procedimiento para sembrar y regar los tomates que ya hiciste debería ser muy fácil. ¡Probemos! :smile:
+El cantero del ejercicio anterior quedó increíble, y los tomates crecieron un montón :tada: . A Willie le gustó tanto, que quiere llenar todo el terreno con más canteros. Para eso vamos a tener que crear un procedimiento para sembrar y regar los tomates. ¡Probemos! :smile:
 
-> Usando el procedimiento `Sembrar Y Regar Cantero De Tomates` que hiciste antes, definí `Llenar De Tomates` que llene el terreno de canteros como ves en la imagen.
+> Hacé un `programa` que llene el terreno de canteros como ves en la imagen. Para eso, definí `Sembrar Y Regar Cantero De Tomates` que `siembre un cantero` y luego lo riegue.
