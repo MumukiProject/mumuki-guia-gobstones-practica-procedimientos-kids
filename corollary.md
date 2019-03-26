@@ -1,5 +1,5 @@
- :tada: ¡¡Felicitaciones!! :tada:
+¡Felicitaciones! :tada:
 
-Ahora no solamente sabés darle instrucciones simples a Mukinita, sino también podés enseñarle tareas :sunglasses:. Y por si esto fuera poco, ahora contamos con la primitiva `Ir Al Borde` que nos puede sacar de más de un aprieto. :sweat_smile:
+Aprendimos otra **primitiva** de _Mukinita_: `Ir Al Borde`. Y, a la vez, le enseñamos a hacer nuevas tareas, más complejas y poderosas que las órdenes que le dábamos antes, ¡con la ayuda de los **procedimientos**! :sunglasses:
 
 Pero la programación es mucho más que esto. ¡Sigamos aprendiendo! :muscle::computer:
