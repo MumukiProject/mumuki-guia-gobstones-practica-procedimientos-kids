@@ -7,4 +7,4 @@ En la lección anterior programamos exitosamente a Mukinita para manejar el trac
 
 Para regar :sweat_drops: cada parcela tendremos que poner 2 bolitas azules. ¡Démosle vida a esas plantas entonces! Empecemos por los canteros de tomates. :tomato:
 
-> Completá e invocá al procedimiento `Sembrar Y Regar Cantero De Tomates` para que arme un cantero de tomates, y además los riegue. Separá las tareas en pequeños procedimientos: por un lado tenés que plantar el cantero y, por el otro, `Regar` las dos parcelas.
+> Completá e invocá al procedimiento `Sembrar Y Regar Cantero De Tomates` para que `siembre un cantero de tomates`, y además los `riegue`. Para separar las tareas en pequeños procedimientos, definí `Regar`, que ponga 2 bolitas azules. 
