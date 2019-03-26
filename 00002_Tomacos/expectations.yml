@@ -4,5 +4,8 @@ expectations:
   binding: "*"
   inspection: Uses:SembrarYRegarCanteroDeTomates
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Declares:LlenarDeTomates
+  binding: SembrarYRegarCanteroDeTomates
+  inspection: Uses:RegarCanteroDeTomates
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: SembrarYRegarCanteroDeTomates
+  inspection: Uses:Sembrar Cantero de Tomates
