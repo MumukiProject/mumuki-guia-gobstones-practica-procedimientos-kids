@@ -8,4 +8,4 @@ expectations:
   inspection: Uses:RegarCanteroDeTomates
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: SembrarYRegarCanteroDeTomates
-  inspection: Uses:Sembrar Cantero de Tomates
+  inspection: Uses:SembrarCanteroDeTomates
