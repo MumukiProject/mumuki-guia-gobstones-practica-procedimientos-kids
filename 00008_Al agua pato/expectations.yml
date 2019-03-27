@@ -3,3 +3,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: RecolectarDelEstanque
   inspection: Uses:IrAlBorde
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RecolectarDelEstanque
+  inspection: Not:Uses:Mover
