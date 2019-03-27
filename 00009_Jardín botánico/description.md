@@ -5,4 +5,4 @@
 
 El jardín de Willie quedó tan lindo con todo lo que hicimos :sparkles:, que construyó uno especialmente para que la gente visite, pero le faltó regarlo :sweat_drops:. ¡Ayudémoslo! :smile:
 
-> Construí un `programa` que riegue todas las verduras del mapa.
+> Construí un `programa` que riegue todas las verduras que ves en el tablero.
