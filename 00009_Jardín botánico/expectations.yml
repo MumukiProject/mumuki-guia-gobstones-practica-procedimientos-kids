@@ -1,5 +1,0 @@
----
-expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Intransitive:program
-  inspection: Not:Uses:Regar
