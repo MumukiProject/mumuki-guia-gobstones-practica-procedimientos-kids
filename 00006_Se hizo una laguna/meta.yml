@@ -5,6 +5,11 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "El enunciado de esta actividad no indica un recorrido o un orden para
+  regar los canteros. Eso propicia la creatividad a la hora de planear soluciones:
+  \n\n* ¿Todas las estrategias son iguales? \n* ¿Siempre empezamos a regar por la
+  misma esquina? \n* ¿Qué procedimientos se definieron para cada solución? ¿Son los
+  mismos?  \n* ¿Cuáles sirven para varias de las estrategias propuestas?"
 manual_evaluation: false
 choices: []
 name: Se hizo una laguna
