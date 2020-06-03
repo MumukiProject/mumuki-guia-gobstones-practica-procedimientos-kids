@@ -5,6 +5,12 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Desde el comienzo de esta lección ponemos en juego lo aprendido: \n\n*
+  ¿Qué procedimiento tenemos que completar? \n* ¿Tengo que definir un nuevo procedimiento
+  desde cero? \n* ¿Qué nombre deberá llevar? \n* ¿El enunciado me indica alguno? Si
+  no, ¿el nombre que elegí describe bien sus tareas? \n* ¿Cuáles de los procedimientos
+  definidos tengo que invocar dentro de otro? \n* ¿Cuáles tengo que invocar dentro
+  del programa? "
 manual_evaluation: false
 choices: []
 name: La Tierra es tierra de color azul
