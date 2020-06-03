@@ -5,6 +5,10 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Las flores de este ejercicio se ubican de una forma particular: \n\n*
+  ¿Cuál es el patrón que encontramos? \n* ¿Ayudará identificarlo para elegir una estrategia?
+  \n* ¿Cuántas estrategias podemos encontrar? \n* ¿Cómo se verá reflejada en la separación
+  de tareas mediante la creación de procedimientos? \n* ¿Y en la elección de sus nombres?"
 manual_evaluation: false
 choices: []
 name: Jardín botánico
