@@ -5,6 +5,10 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Las ventajas de definir procedimientos para tareas pequeñas y ponerles
+  nombres claros nos permite combinarlos y usarlos en problemas diferentes. Para pensar:\n\n*
+  ¿Cuántos procedimientos utilizamos en esta actividad? \n* ¿Tuvimos que definirlos
+  todos? \n* ¿Cómo se combinan para solucionar el problema?"
 manual_evaluation: false
 choices: []
 name: Regando la fila
