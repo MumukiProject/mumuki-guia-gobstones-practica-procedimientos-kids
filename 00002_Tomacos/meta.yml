@@ -5,6 +5,15 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "La elección del nombre de los procedimientos que creamos es muy importante.
+  En esta actividad se presentan varios procedimientos ya definidos y si prestamos
+  atención los nombres de cada uno de ellos describe con claridad *qué* es lo que
+  hacen (el *cómo* estará dado por sus instrucciones). Para pensar: \n\n* ¿Qué dificultades
+  nos genera un procedimiento llamado `Asdf` dentro de un programa complejo? \n* ¿A
+  la comprensión de quién o quiénes ayuda la elección de nombres claros? \n* ¿Qué
+  consecuencias podría tener si al procedimiento `Regar` lo llamáramos `Podar`? \n*
+  ¿Y si lo llamáramos `Regar en diagonal`?  \n* Entonces, ¿cuáles son las ventajas
+  de elegir nombres adecuados?"
 manual_evaluation: false
 choices: []
 name: Tomacos
