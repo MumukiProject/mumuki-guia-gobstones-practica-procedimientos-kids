@@ -5,6 +5,11 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Contamos con muchos procedimientos ya definidos y debemos combinarlos
+  para resolver un problema: \n\n* ¿Qué hace cada uno de ellos? \n* ¿Cuáles puedo
+  aprovechar en el programa principal? \n* ¿Qué debería agregarle para lograr el objetivo?
+  \n* ¿Qué creés que hace el nuevo comando `Ir Al Borde`? \n* ¿Lo probaste? ¿Puede
+  ayudar en tu solución?"
 manual_evaluation: false
 choices: []
 name: Una ensalada bien cargada
