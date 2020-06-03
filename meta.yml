@@ -3,7 +3,11 @@ name: Rindiendo frutos
 locale: es
 type: practice
 beta: false
-teacher_info: ''
+teacher_info: "Los **procedimientos** son una herramienta muy importante para poder
+  comprender y comunicar mejor el problema a resolver y la estrategia elegida para
+  hacerlo. Esta lección nos permite muchos intercambios para pensar en grupo: \n\n*
+  ¿La solución que creaste es única? \n* ¿Creaste tantos procedimientos como problemas
+  más pequeños tuviste que resolver? \n* ¿Elegiste nombres claros?"
 language: gobstones
 id_format: "%05d"
 order:
